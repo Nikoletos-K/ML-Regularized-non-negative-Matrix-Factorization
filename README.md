@@ -2,6 +2,9 @@
 
 # ML-Regularized-non-negative-Matrix-Factorization
 
+### ✔️ Open notebook with [jupyter nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/ML-Regularized-non-negative-Matrix-Factorization/blob/main/ML-Notebook.ipynb) ✔️
+
+
 This project was made as part of the subject Machine Learning and Pattern Recognition by Dr. Giannis Panagakis. 
 
 Consists of 2 tasks. 
@@ -14,7 +17,6 @@ Image processing and dimension reduction using the PCA algorithm.
 
 The corpus of the project. In this section I tried to fing the iteretive formulas in order to make the Regularized non-negative matrix factorization. I made some tries, but still I am not very sure about the correctness of mine approximation. In ths notebook you will unfortunatelly find remarks in both Greek and English language (future work to make in all in greek).
 
-### ✔️ **If notebook doesn't open in GitHub follow the link [jupyter nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/ML-Regularized-non-negative-Matrix-Factorization/blob/main/ML-Notebook.ipynb) ✔️
 
 ---
 
