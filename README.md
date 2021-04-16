@@ -1,6 +1,6 @@
 ---
 
-# ML-Regularized-non-negative-Matrix-Factorization
+# Regularized non-negative Matrix Factorization
 
 ### ✔️ Open notebook with [jupyter nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/ML-Regularized-non-negative-Matrix-Factorization/blob/main/ML-Notebook.ipynb) ✔️
 
